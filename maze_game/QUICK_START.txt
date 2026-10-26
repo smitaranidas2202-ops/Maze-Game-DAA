@@ -1,0 +1,52 @@
+========================================================================
+   MAZE GAME - DAA MINI-PROJECT (DFS vs BFS)
+========================================================================
+
+HOW TO RUN ON YOUR COMPUTER (IN 2 STEPS)
+------------------------------------------------------------------------
+
+Prerequisite:
+Make sure you have Python installed (version 3.10 or higher).
+If you don't have Python, download it free from: https://www.python.org/
+(Important on Windows: check the box that says "Add Python to PATH" during install).
+
+
+OPTION 1: AUTOMATIC RUNNERS (EASIEST)
+------------------------------------------------------------------------
+On Windows:
+  Double-click "run_game.bat". It will install the required library and
+  start the game immediately.
+
+On Mac / Linux:
+  Open Terminal in this folder and run:
+      ./run_game.sh
+
+
+OPTION 2: MANUAL COMMAND LINE
+------------------------------------------------------------------------
+1. Open Terminal (Mac/Linux) or Command Prompt / PowerShell (Windows).
+2. Navigate to this extracted folder:
+      cd maze_game
+3. Install requirements (only once):
+      pip install -r requirements.txt
+4. Run the game:
+      python main.py
+
+
+HOW TO PLAY & CONTROLS:
+------------------------------------------------------------------------
+- Movement: Use W, A, S, D or Arrow Keys to navigate from Start (Green 'S')
+  to Exit (Red 'E').
+- Solve Using DFS: Click the orange button to watch Depth-First Search.
+- Solve Using BFS: Click the cyan button to watch Breadth-First Search
+  find the shortest path.
+- New Random Maze: Click "New Random Maze" or press 'G'.
+- Reset: Click "Reset Position" or press 'R'.
+- Instant Solve: Click "Instant / Skip Anim" or press Spacebar.
+
+PROJECT DOCUMENTATION:
+------------------------------------------------------------------------
+- README.md: Full project description and explanation of algorithms.
+- PROJECT_REPORT.md: Academic project report ready for college submission.
+- VIVA_QUESTIONS_AND_ANSWERS.md: 25 college viva questions with answers.
+========================================================================
