@@ -235,3 +235,16 @@ Run on a standard $21 \times 21$ generated maze with braid factor 0.10:
 
 ## 9. License & Academic Attribution
 Developed as an educational mini-project for **Design and Analysis of Algorithms (DAA)**. Free for academic, classroom, and demonstrative learning purposes.
+## Game Screenshots
+
+### Gameplay
+![Maze Game Gameplay](screenshot_play_mode.png)
+
+### BFS Shortest Path
+![BFS Solved Maze](screenshot_bfs_solved.png)
+
+### DFS Traversal
+![DFS Solved Maze](screenshot_dfs_solved.png)
+
+### Victory Screen
+![Maze Game Victory](screenshot_victory.png)
